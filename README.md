@@ -49,5 +49,3 @@ The dataset used in this project is a collection of spam and non-spam emails, so
 ## Conclusion
 This project provides a comprehensive approach to email spam classification, with a focus on accuracy and efficiency. It serves as a foundation for further enhancements and the potential integration of additional features such as user feedback mechanisms to improve model performance over time.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
