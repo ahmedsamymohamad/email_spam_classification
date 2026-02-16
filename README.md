@@ -25,16 +25,6 @@ The dataset used in this project is a collection of spam and non-spam emails, so
    pip install -r requirements.txt
    ```
 
-## Usage
-- To run the spam classification model:
-  ```bash
-  python classify.py
-  ```
-- To evaluate the model performance:
-  ```bash
-  python evaluate.py
-  ```
-
 ## Algorithms Implemented
 - Naive Bayes
 - Support Vector Machine (SVM)
